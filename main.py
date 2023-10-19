@@ -16,7 +16,8 @@ def search_google_barcode_name(barcode_number):
     print("Empty search result")
     return None
   # Extract the barcode name from the search result title.
-  product_name = search_result.find('div', class_='BNeawe vvjwJb AP7Wnd').text.split('-' and '|')[0].strip()
+  product_name = search_result.find('div', class_='BNeawe vvjwJb AP7Wnd').text.split('-')[0].strip()
+  product_name = product_name.split('|')[0].strip()
 
   return product_name
 
