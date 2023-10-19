@@ -8,5 +8,4 @@ With Beautiful Soap we make a web scrape. Then we need to define which part of w
 <img width="802" alt="Ekran Resmi 2023-10-19 16 30 38" src="https://github.com/omertascioglu/WebScrapingBarkod/assets/33811400/31886108-30b4-47ec-abda-fef6fcb2a02c">
 
 
-https://github.com/omertascioglu/WebScrapingBarkod/assets/33811400/0551d6be-947f-47c2-971b-19f7daecf7a5
-
+https://github.com/omertascioglu/WebScrapingBarkod/assets/33811400/82d310bb-049e-44a6-b860-9230081eb88f
