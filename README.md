@@ -1,4 +1,4 @@
-# WebScrapingBarkod
+# WebScrapingBarcode
 This project helps you for automating your barkod search in google. If you have a problem with searching untagged barkod numbers, mine code helps you about it.
 
 <img width="956" alt="Ekran Resmi 2023-10-19 16 27 05" src="https://github.com/omertascioglu/WebScrapingBarkod/assets/33811400/40bab455-3c30-45bd-8b75-af5860a12e06">
